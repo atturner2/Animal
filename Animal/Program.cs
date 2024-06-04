@@ -22,10 +22,7 @@ class Pig : AnimalBaseClass  // Derived class (child)
 
 class Dog : AnimalBaseClass  // Derived class (child) 
 {
-    public override void animalSoundVirtual()
-    {
-        Console.WriteLine("The dog says: bow wow from it's overidden method");
-    }
+   
 
     
 }

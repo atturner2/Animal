@@ -1,0 +1,15 @@
+/Users/aturner/Projects/Animal/Animal/bin/Debug/net7.0/Animal
+/Users/aturner/Projects/Animal/Animal/bin/Debug/net7.0/Animal.deps.json
+/Users/aturner/Projects/Animal/Animal/bin/Debug/net7.0/Animal.runtimeconfig.json
+/Users/aturner/Projects/Animal/Animal/bin/Debug/net7.0/Animal.dll
+/Users/aturner/Projects/Animal/Animal/bin/Debug/net7.0/Animal.pdb
+/Users/aturner/Projects/Animal/Animal/obj/Debug/net7.0/Animal.csproj.AssemblyReference.cache
+/Users/aturner/Projects/Animal/Animal/obj/Debug/net7.0/Animal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aturner/Projects/Animal/Animal/obj/Debug/net7.0/Animal.AssemblyInfoInputs.cache
+/Users/aturner/Projects/Animal/Animal/obj/Debug/net7.0/Animal.AssemblyInfo.cs
+/Users/aturner/Projects/Animal/Animal/obj/Debug/net7.0/Animal.csproj.CoreCompileInputs.cache
+/Users/aturner/Projects/Animal/Animal/obj/Debug/net7.0/Animal.dll
+/Users/aturner/Projects/Animal/Animal/obj/Debug/net7.0/refint/Animal.dll
+/Users/aturner/Projects/Animal/Animal/obj/Debug/net7.0/Animal.pdb
+/Users/aturner/Projects/Animal/Animal/obj/Debug/net7.0/Animal.genruntimeconfig.cache
+/Users/aturner/Projects/Animal/Animal/obj/Debug/net7.0/ref/Animal.dll

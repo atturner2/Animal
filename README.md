@@ -1,5 +1,5 @@
 # Animal
-Simple example of polymorphism, abstraction, and interfaces in C#
+Simple example of polymorphism, abstraction, and interfaces in C#. The animal base class and child classes illustrate how methods can be inherited or not. 
 # Simple Polymorhpism
 AnimalBaseClass has two child classes, Pig and Dog. Pig and Dog each define the virtual method animalSoundVirtual, and pig defines it's own walk() method, while the dog uses the one from the parent class. This is to highlight in a normal base class, methods can be defined in the parent or the child class.
 # Simple Abstract Class

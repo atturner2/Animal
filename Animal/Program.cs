@@ -2,7 +2,7 @@
 {
     public virtual void animalSoundVirtual()
     {
-        Console.WriteLine("The animal makes a sound");
+        Console.WriteLine("The animal makes a sound from the method in the base class");
     }
 
 
@@ -98,10 +98,11 @@ class Program
         AnimalBaseClass myBaseClassPig = new Pig();  // Create a Pig object
         AnimalBaseClass myBaseClassDog = new Dog();  // Create a Dog object
 
-        //myAnimal.animalSoundVirtual();
+        myAnimal.animalSoundVirtual();
+        myAnimal.animalSoundVirtual();
         myBaseClassPig.animalSoundVirtual();
         myBaseClassDog.animalSoundVirtual();
-        //myAnimal.walk();
+        myAnimal.walk();
         myBaseClassPig.walk();
         myBaseClassDog.walk();
 
@@ -110,6 +111,7 @@ class Program
         AnimalAbstractClass myAbstractClassPig = new AbstractPig();  // Create a Pig object
         AnimalAbstractClass myAbstractClassDog = new AbstractDog();  // Create a Dog object
 
+        //The below object is not allowed and cannot be called
         //myAnimal.animalSoundVirtual();
         myAbstractClassPig.animalSoundAbstract();
         myAbstractClassDog.animalSoundAbstract();
